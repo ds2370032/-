@@ -1,0 +1,5 @@
+{
+  "name": "Pet Name Generator",
+  "description": "Generate unique and easy-to-pronounce Japanese pet names in Katakana, tailored by animal type and style (cute or cool).",
+  "requestFramePermissions": []
+}
